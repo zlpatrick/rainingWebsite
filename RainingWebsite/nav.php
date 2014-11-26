@@ -12,25 +12,25 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li><a href="/">网站首页</a></li>
+					<li><a href="index.php">网站首页</a></li>
 					<li class="dropdown"><a class="dropdown-toggle"
-						data-toggle="dropdown" href="#learn" title="About CentOS">
+						data-toggle="dropdown" href="#">
 							产品中心<b class="caret"></b>
 					</a>
 						<ul class="dropdown-menu">
-							<li><a href="">OA协同办公</a></li>
-							<li><a href="">教学管理系统</a></li>
-							<li><a href="">ERP管理系统</a></li>
+							<li><a href="product-oa.php">OA协同办公</a></li>
+							<li><a href="product-school.php">教学管理系统</a></li>
+							<li><a href="product-erp.php">ERP管理系统</a></li>
 
 						</ul></li>
-					<li><a href="">关于我们</a></li>
+					<li><a href="about-us.php">关于我们</a></li>
 					<li class="dropdown"><a class="dropdown-toggle"
-						data-toggle="dropdown" href="#learn" title="CentOS Documentation">
+						data-toggle="dropdown" href="#">
 							人才招聘<b class="caret"></b>
 					</a>
 						<ul class="dropdown-menu">
-							<li><a href="">人才理念</a></li>
-							<li><a href="">招聘信息</a></li>
+							<li><a href="talent-idea.php">人才理念</a></li>
+							<li><a href="talent-recruit.php">招聘信息</a></li>
 						</ul></li>
 
 				</ul>
