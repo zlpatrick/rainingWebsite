@@ -32,8 +32,8 @@
 
 				<div class="carousel-caption"
 					style="top: 250px !important; text-align: left; font-size: 20px; color: lightgrey">
-					<button class="btn btn-primary" type="button"
-						style="font-size: 18px">从了解我们的产品开始</button>
+					<a href="#product-introduction"><button class="btn btn-primary" type="button"
+						style="font-size: 18px">从了解我们的产品开始</button></a>
 				</div>
 
 				<div class="carousel-caption"
@@ -97,7 +97,7 @@
 		</div>
 
 
-		<div class="panel panel-warning">
+		<div class="panel panel-warning" id="product-introduction">
 			<div class="panel-heading">
 				<h3 class="panel-title">产品推荐</h3>
 			</div>
@@ -114,7 +114,7 @@
 							适用于大中专院校、中学教务管理的管理系统。系统涵盖高校和中学教务管理工作所有环节，涉及到基本信息、学生学籍、教学安排(网上选课/课表编排)、考试事务（考务管理、在线考试）、报名管理、证书管理、公寓管理、教学管理（课件管理、作业管理）学生成绩、教学考评、毕业处理（毕业设计、毕业管理）、就业管理与系统管理十三个方面，基于校园网/互联网为学校教学工作提供先进实用的信息化管理手段
 						</p>
 						<p>
-							<button class="btn btn-primary" type="button">查看详情</button>
+							<a href="product-school.php"><button class="btn btn-primary" type="button">查看详情</button></a>
 						</p>
 					</div>
 				</div>
@@ -126,7 +126,7 @@
 							本系统基于微软.NET架构，技术领先，完全模块化设计，扩容性强，公文传阅、收文、发文、工作流管理、文件管理,知识库管理、数据分析、图形化的流程设计，使办公更清晰、文档的在线编辑、印章的使用保密，编辑文档可同时进入留痕工作，可以完全记住编辑时删除的文字，待编辑完成后统一管理。本系统经压力测试，完全支持1000人以上的并发连接。并涵盖强大的语音提示功能。
 						</p>
 						<p>
-							<button class="btn btn-warning" type="button">查看详情</button>
+							<a href="product-oa.php"><button class="btn btn-warning" type="button">查看详情</button></a>
 						</p>
 					</div>
 
@@ -150,7 +150,7 @@
 							企业级新产品－家电、印刷、机械五金、等离散形企业ERP管理系统是通过对现有家电、印刷、机械五金、等离散形企业的深入调查研究同时根据现阶段企业的迅速发展和现代化信息管理的需要，结合宇威信息科技的高新技术和多年以来丰富的项目实施和系统开发经验，并且针对目前家电、印刷、机械五金、等离散形市场的具体情况，以最大程度提高企业运作效率、降低经营成本、减少工作量、提供经营决策支持、减少经营风险为目的开发而成的。系统吸取了众多企业科学的运作式和规范的管理理念，摒除许多传统不规范的管理模式。系统切实帮助企业实现科学规范的管理，为企业创造更大的经济效益，全面提升企业的市场竞争实力。
 						</p>
 						<p>
-							<button class="btn btn-success" type="button">查看详情</button>
+							<a href="product-erp.php"><button class="btn btn-success" type="button">查看详情</button></a>
 						</p>
 					</div>
 				</div>
