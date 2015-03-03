@@ -1,3 +1,30 @@
+<?php
+function getBrowser(){
+    $agent=$_SERVER["HTTP_USER_AGENT"];
+    if(strpos($agent,'MSIE')!==false ) //ieÅÐ¶Ï
+    return "false";
+	if(strpos($agent,'rv:11.0')) //ie11ÅÐ¶Ï
+    return "true";
+    else if(strpos($agent,'Firefox')!==false)
+    return "true";
+    else if(strpos($agent,'Chrome')!==false)
+    return "true";
+    else if(strpos($agent,'Opera')!==false)
+    return 'true';
+    else if((strpos($agent,'Chrome')==false)&&strpos($agent,'Safari')!==false)
+    return 'true';
+    else
+    return 'false';
+}
+if( getBrowser() == 'false')
+{
+	echo "<script language=javascript>"; 
+	echo "document.location.href='index.asp'";
+	echo "</script>";
+	exit();
+}
+?>
+
 <html>
 <head>
 <title>Ê×Ò³ | ÓîÍþ¿Æ¼¼</title>
