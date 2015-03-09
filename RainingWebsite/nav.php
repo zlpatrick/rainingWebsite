@@ -8,7 +8,7 @@
 					class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="/" title="Home" style="padding: 0"><img
-				src="img/logo.png" /></a>
+				src="img/logo.png" style="height:45px;margin-top:5px"/></a>
 		</div>
 		<div class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
