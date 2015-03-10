@@ -181,6 +181,27 @@ if( getBrowser() == 'false')
 						</p>
 					</div>
 				</div>
+				
+				
+				<hr>
+				<div class="row" style="padding-top: 20px; padding-bottom: 20px">
+					<div class="col-md-9" style="padding-left: 40px">
+						<p style="font-size: 18px">数字化医院系统</p>
+						<p style="line-height: 26px; color: grey">
+							宇威数字化医院管理系统秉承以病人为中心的设计理念，基于医院信息平台的模型进行设计，系统功能深入覆盖医院主要管理流程和病人在医院就诊的各个重要环节，通过对系统的合理配置，能极大方便病人、改善就医感受，加固医疗过程的安全监控，提升医疗服务质量，节省医疗成本，提高医院整体工作效率。
+						</p>
+						<p>
+							<a href="product-hospital.php"><button class="btn btn-danger" type="button">查看详情</button></a>
+						</p>
+					</div>
+
+					<div class="col-md-3">
+
+						<img src="img/publishing_stopwatch.png" class="img-responsive">
+
+					</div>
+
+				</div>
 			</div>
 		</div>
 

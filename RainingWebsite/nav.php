@@ -23,6 +23,8 @@
 								class="glyphicon glyphicon-hand-right"></span> &nbsp;教学管理系统</a></li>
 						<li><a href="product-erp.php"><span
 								class="glyphicon glyphicon-hand-right"></span> &nbsp;ERP管理系统</a></li>
+						<li><a href="product-hospital.php"><span
+								class="glyphicon glyphicon-hand-right"></span> &nbsp;数字化医院系统</a></li>
 
 					</ul></li>
 				<li><a href="about-us.php">关于我们</a></li>
